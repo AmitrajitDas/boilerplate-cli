@@ -1,0 +1,32 @@
+{
+  "name": "typify",
+  "version": "1.0.0",
+  "description": "Spin up typescript based server-side starters within minutes",
+  "main": "bin/cli.js",
+  "bin": {
+    "typify": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "author": "Amitrajit <amitrajitdas31@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "edit-json-file": "^1.5.0",
+    "figlet": "^1.5.2",
+    "gitignore": "^0.6.0",
+    "inquirer": "^6.5.2",
+    "ncp": "^2.0.0",
+    "node-fetch": "^2.6.8",
+    "ora": "^4.0.3"
+  },
+  "engines": {
+    "node": ">= 10.13.0",
+    "npm": ">= 6.11.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.12"
+  }
+}
