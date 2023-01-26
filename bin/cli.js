@@ -3,7 +3,6 @@ const inquirer = require("inquirer");
 const starter = require("../lib/starter");
 
 const getDest = (destDir = "typify") => {
-  console.log({ destDir });
   return path.join(process.cwd(), destDir);
 };
 
