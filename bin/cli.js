@@ -9,7 +9,7 @@ const sleep = require("../utils/sleep");
  * @method getDest
  * @description getting the destination directory where project will get initialized
  */
-const getDest = (destDir = "typify") => {
+const getDest = (destDir = "boilerplate-cli") => {
   return path.join(process.cwd(), destDir);
 };
 
@@ -18,7 +18,7 @@ const getDest = (destDir = "typify") => {
  * @description Asks for the name of the project template
  */
 const projectName = async () => {
-  greetings("TYPIFY");
+  greetings("BOILERPLATE_CLI");
   await sleep(1000);
   const { destDir } = await inquirer.prompt([
     {
