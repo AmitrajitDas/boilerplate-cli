@@ -1,7 +1,7 @@
 {
-  "name": "typify",
+  "name": "boilerplate-cli",
   "version": "1.0.0",
-  "description": "Spin up typescript based server-side starters within minutes",
+  "description": "Spin up server-side starters within minutes",
   "main": "bin/cli.js",
   "bin": {
     "typify": "bin/cli.js"
