@@ -43,3 +43,5 @@ The package is configured to use TypeScript instead of JavaScript.
 <img width="1510" alt="Screenshot 2023-02-08 at 12 26 50 AM" src="https://user-images.githubusercontent.com/60144525/219418404-c0f1cb1a-efa0-4d68-b4e6-f25ca03b8d34.png">
 
 # Now go to the generated project directory and use the full power of TS in server-side 😎 
+
+# More templates will be added in future and this package will be hosted in NPM.
