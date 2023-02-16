@@ -2,21 +2,6 @@
 
 <h4 align="center">🚀 RESTful API Boilerplate CLI</h4>
 
-<p align="center">
-  <a href="https://github.com/ljlm0402/typescript-express-starter/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/AmitrajitDas/boilerplate-cli" alt="github Stars" />
-  </a>
-  <a href="https://github.com/ljlm0402/typescript-express-starter/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/AmitrajitDas/boilerplate-cli" alt="github Forks" />
-  </a>
-  <a href="https://github.com/ljlm0402/typescript-express-starter/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/contributors/AmitrajitDas/boilerplate-cli" alt="github Contributors" />
-  </a>
-  <a href="https://github.com/ljlm0402/typescript-express-starter/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/AmitrajitDas/boilerplate-cli" alt="github Issues" />
-  </a>
-</p>
-
 # Introducing The Project
 
 Express consists of JavaScript, which makes it vulnerable to type definitions.
