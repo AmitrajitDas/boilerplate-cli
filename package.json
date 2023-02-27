@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-cli",
+  "name": "boilerplate-templify-cli",
   "version": "1.0.0",
   "description": "Spin up server-side starters within minutes",
   "main": "bin/cli.js",
