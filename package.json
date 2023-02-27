@@ -29,5 +29,8 @@
   },
   "devDependencies": {
     "@types/node-fetch": "^2.5.12"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/boilerplate-templify-cli"
   }
 }
