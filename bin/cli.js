@@ -18,7 +18,7 @@ const getDest = (destDir = "boilerplate-cli") => {
  * @description Asks for the name of the project template
  */
 const projectName = async () => {
-  greetings("BOILERPLATE_CLI");
+  greetings("BOILERPLATE CLI");
   await sleep(1000);
   const { destDir } = await inquirer.prompt([
     {
@@ -41,7 +41,7 @@ const greetings = (greetingText) => {
     font: "Star Wars",
     horizontalLayout: "default",
     verticalLayout: "default",
-    width: 80,
+    width: 150,
     whitespaceBreak: true,
   };
 
